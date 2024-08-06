@@ -26,6 +26,7 @@
     "prettier": "^3.3.3"
   },
   "dependencies": {
+    "danielekerhovd-joker": "^0.1.0",
     "give-me-a-joke": "^0.5.1"
   }
 }
