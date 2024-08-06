@@ -9,4 +9,3 @@ export async function testDadJoke() {
 }
 
 testDadJoke();
-c
