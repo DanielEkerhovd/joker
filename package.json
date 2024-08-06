@@ -1,6 +1,6 @@
 {
   "name": "danielekerhovd-joker",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Application for jokes ect",
   "type": "module",
   "main": "src/index.js",
